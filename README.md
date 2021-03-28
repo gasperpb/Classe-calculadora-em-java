@@ -20,7 +20,8 @@ recém-criado e teste todos os serviços (estes deve funcionar normalmente).
 Menu (com um serviço/método exibirMenu(), por exemplo) que possa iniciar o sistema com o método main e possa 
 disponibilizar todas as opções mencionadas. Dica: procure informações sobre a classe Scanner no livro para realizar 
 entrada de dados. Abaixo, segue um exemplo do Menu:
---------------------------
+
+
 |Calculadora             |
 |================        |
 | 1. Somar               |
@@ -30,7 +31,6 @@ entrada de dados. Abaixo, segue um exemplo do Menu:
 | 5. Sobre a Calculadora |
 | 6. Sair                |
 | Digite uma opção:      |
---------------------------
 
 
 
