@@ -45,3 +45,6 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :beetle: Correção de Bug
 - :checkered_flag: Release
 - :teste: 
+
+
+![UML](https://user-images.githubusercontent.com/12601068/113039306-e5ee6200-916d-11eb-857d-8d7230f2bc65.png)
