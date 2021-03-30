@@ -22,15 +22,15 @@ disponibilizar todas as opções mencionadas. Dica: procure informações sobre 
 entrada de dados. Abaixo, segue um exemplo do Menu:
 
 
-|Calculadora             |
-|================        |
-| 1. Somar               |
-| 2. Subtrair            |
-| 3. Multiplicar         |
-| 4. Dividir             | 
-| 5. Sobre a Calculadora |
-| 6. Sair                |
-| Digite uma opção:      |
+Calculadora             
+================        
+ 1. Somar               
+ 2. Subtrair            
+ 3. Multiplicar         
+ 4. Dividir             
+ 5. Sobre a Calculadora 
+ 6. Sair                
+ Digite uma opção:      
 
 
 
