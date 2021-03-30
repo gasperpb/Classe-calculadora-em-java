@@ -45,4 +45,11 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :beetle: Correção de Bug
 - :checkered_flag: Release
 - :teste: 
+
+
 ![UML](https://user-images.githubusercontent.com/12601068/113039643-467d9f00-916e-11eb-99da-29643ceef651.png)
+
+
+
+# Status do projeto.
+[Projeto](https://github.com/gasperpb/Classe-calculadora-em-java/projects/1)
